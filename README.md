@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Naysilaa&label=Profile%20views&color=0e75b6&style=plastic" alt="Naysilaa" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Naysilaa&label=Profile%20views&color=0e75b6&style=plastic" alt="Naysilaa" /> </p>
 
 
 <img src="https://telegra.ph/file/250694b733293bf4b70e2.png" />
