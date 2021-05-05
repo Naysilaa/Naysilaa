@@ -8,7 +8,7 @@
 <a href="https://pinterest.com">
   <img align="right" alt="Xluxz Pinterest" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pinterest.svg" />
 </a>
-<a href="https://t.me/X_Newbie">
+<a href="https://t.me/BluueBlueSky">
   <img align="left" alt="Xluxz Telegram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://twitter.com">
