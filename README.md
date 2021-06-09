@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Naysilaa&label=Profile%20views&color=0e75b6&style=plastic" alt="Naysilaa" /> </p>
 
 
-<img src="https://telegra.ph/file/451b2662fd3b0701f354e.jpg" />
+<img src="https://telegra.ph/file/451b2662fd3b071f354e.jpg" />
 <a href="https://www.instagram.com/antoniprananda">
   <img align="right" alt="Naysilaa Reddit" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
